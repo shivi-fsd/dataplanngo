@@ -8796,8 +8796,7 @@
       }
     ]
   },
-  "sixth":
-  {
+  
     "users": [
       {
         "id": "1",
@@ -8975,7 +8974,7 @@
         "profileImage": "https://phg.s3.tebi.io/uploads/1738654298002-Capture001.png"
       }
     ]
-  },
+  ,
   "seventh":
   {
     "hotels": [
